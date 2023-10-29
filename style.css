@@ -92,7 +92,7 @@
     max-width: 250px;
    }
 
-   #nav-title a:hover, #nav-title a:focus,
+   a:hover, a:focus,
    #Nav a:hover, #Nav a:focus{
     color: var(--nav-active);
    }
